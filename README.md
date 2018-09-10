@@ -8,11 +8,11 @@ Ctrl + L tīra ekrānu
 
 Komanda echo $0 pasaka, kurā valodā runā sistēma
 
-Bash viens no Shell dialektiem
+Bash viens no Shell dialēktiem
 
 Shell ir datora valoda
 
-Komanda whoami parādā , kur tu atdosies
+Komanda whoami parādā , kas tu esi
 
 Komanda who ar ko
 

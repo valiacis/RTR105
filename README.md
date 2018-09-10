@@ -26,3 +26,6 @@ q iziet
 
 Ctrl + Alt + T atvēr komandas logu
 
+https://github.com
+
+https://edx2.etf.rtu.lv/portal/

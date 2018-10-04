@@ -1,0 +1,35 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  https://github.com/valiacis/RTR105
+    4  https://github.com/valiacis/RTR105/
+    5  cd -r
+    6  ls -l
+    7  git clone https://github.com/valiacis/RTR105/
+    8  pwd
+    9  nano dialogs.py
+   10  RTR105 history > history 20181004.txt
+   11  /RTR105 history > history 20181004.txt
+   12  firefox
+   13  ls -l
+   14  mv dialogs.py RTR105/
+   15  mv history RTR105/
+   16  ls -l
+   17  cd RTR105/
+   18  ls -l
+   19  cd ..
+   20  mv RTR105/ RTR106
+   21  ls -l
+   22  https://github.com/valiacis/RTR105/
+   23  git clone https://github.com/valiacis/RTR105/
+   24  ls -l
+   25  mv RTR106/dialogs.py RTR105/
+   26  mv RTR106/history RTR105/
+   27  cd RTR105/
+   28  ls -l
+   29  cp ../RTR106/git-upload ./
+   30  ls -l
+   31  nano git-upload 
+   32  ls -l
+   33  cat history
+   34  history > history 20181004.txt
+   35  history > history_20181004.txt

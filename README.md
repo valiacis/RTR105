@@ -29,3 +29,9 @@ Ctrl + Alt + T atvēr komandas logu
 https://github.com
 
 https://edx2.etf.rtu.lv/portal/
+
+Lejupielādēt savu repozitāriju
+git clone https://github.com/login/RTR105
+Ieiet repozitārija mapē -
+cd RTR105
+
